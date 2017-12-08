@@ -1,5 +1,6 @@
+server:
+  port: 7979
+
 spring:
   application:
     name: hystrix-dashboard
-server:
-  port: 7979

@@ -1,5 +1,6 @@
+server:
+  port: 8762
+
 spring:
   application:
     name: zipkin-server
-sever:
-  port: 8762
